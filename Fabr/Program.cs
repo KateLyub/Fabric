@@ -20,6 +20,7 @@ namespace Fabr
      Console.Read(); 
         }
     }
+	/*k;j;j;;*/
 // dkdslgjlkd
     abstract class PianoFactory
     {
