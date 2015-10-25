@@ -1,0 +1,6 @@
+E:\vs\Fabr\Fabr\bin\Debug\Fabr.exe.config
+E:\vs\Fabr\Fabr\bin\Debug\Fabr.exe
+E:\vs\Fabr\Fabr\bin\Debug\Fabr.pdb
+E:\vs\Fabr\Fabr\obj\Debug\Fabr.csprojResolveAssemblyReference.cache
+E:\vs\Fabr\Fabr\obj\Debug\Fabr.exe
+E:\vs\Fabr\Fabr\obj\Debug\Fabr.pdb
